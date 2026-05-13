@@ -1,6 +1,8 @@
+[<img src="https://raw.githubusercontent.com/MariamF35/MariamF35/master/intro.gif" alt="👋 Hi there! I'm (Mariam(F35| Fatima)|https://MariamF35.github.io)" title="👋 Hi there! I'm (Mariam(F35| Fatima)|https://MariamF35.github.io)"/>](https://MariamF35.github.io/)
+
 ## Hi there 👋
 
-<!--
+
 **MariamF35/MariamF35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
