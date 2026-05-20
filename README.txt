@@ -1,3 +1,186 @@
+<div align="center">
+
+<!-- Typing SVG - https://github.com/DenverCoder1/readme-typing-svg -->
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Mariam+👋;Full-Stack+Developer;Always+building+something+new;Let's+connect+and+create!&font=Fira+Code&center=true&width=500&height=50&color=f75c7e&vCenter=true&pause=1000&size=22" />
+</a>
+
+<br/>
+
+<!-- Social Badges -->
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/MariamF35)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/MariamF35)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=Github&logoColor=white)](https://github.com/MariamF35)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/MariamF35)
+
+<!-- Visitor Counter -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=MariamF35&label=Profile%20views&color=f75c7e&style=flat" alt="MariamF35" />
+</p>
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+<img align="right" height="250" width="375" alt="Coder GIF" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
+- 🔭 &nbsp; I'm a **Full-Stack Developer** who loves building end-to-end products
+- 🚀 &nbsp; Currently exploring **AI, LLMs, and Gen AI integrations**
+- 💬 &nbsp; Ask me about **React, Node.js, Python, AWS** — or anything tech!
+- 🌱 &nbsp; Always learning something new
+- ⚡ &nbsp; Fun fact: I debug with `console.log` *and* I'm proud of it
+- 📫 &nbsp; Reach me at: **[your.email@example.com](mailto:your.email@example.com)**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript">
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript">
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python">
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML">
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS">
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL">
+</p>
+
+### Frontend
+<p>
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React">
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" alt="Next.js">
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="Tailwind CSS">
+</p>
+
+### Backend & Databases
+<p>
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js">
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express.js">
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" alt="Django">
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png" alt="Flask">
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB">
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL">
+</p>
+
+### Cloud & DevOps
+<p>
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="AWS">
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker">
+  <img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git">
+</p>
+
+---
+
+<details open>
+  <summary><h2>📊 GitHub Stats & Activity</h2></summary>
+
+  <br/>
+
+  <!-- GitHub Stats -->
+  <p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariamF35&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariamF35&langs_count=8&layout=compact&theme=radical&hide_border=true" />
+  </p>
+
+  <!-- Streak Stats -->
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MariamF35&theme=radical&hide_border=true" />
+  </p>
+
+  <!-- Activity Graph -->
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=MariamF35&bg_color=141321&color=f75c7e&line=f75c7e&point=FFFFFF&hide_border=true" />
+  </p>
+
+</details>
+
+---
+
+<details>
+  <summary><h2>⚡ Recent GitHub Activity</h2></summary>
+
+  <!--START_SECTION:activity-->
+  <!-- This section is auto-updated by: https://github.com/jamesgeorge007/github-activity-readme -->
+  <!-- Add the GitHub Action to your repo to enable this feature -->
+  1. 🔨 Your activity will show here once you set up the GitHub Action
+  <!--END_SECTION:activity-->
+
+</details>
+
+---
+
+<details>
+  <summary><h2>🛠️ Things I Use to Get Stuff Done</h2></summary>
+
+  <ul>
+    <li><b>OS:</b> macOS / Ubuntu</li>
+    <li><b>Editor:</b> VS Code — the best editor out there ❤️</li>
+    <li><b>Terminal:</b> Zsh with Oh My Zsh</li>
+    <li><b>Browser:</b> Chrome (+ a million tabs)</li>
+    <li><b>Other Tools:</b> Postman, Notion, Figma, Docker Desktop</li>
+    <li><b>Stay Updated:</b> Twitter, Hacker News, Dev.to</li>
+  </ul>
+
+</details>
+
+---
+
+<details>
+  <summary><h2>🎮 Fun Corner — Play a Snake Game!</h2></summary>
+
+  <!-- GitHub snake animation - generate yours at https://github.com/Platane/snk -->
+  <p align="center">
+    <img src="https://github.com/MariamF35/MariamF35/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  </p>
+
+  <blockquote>
+    🐍 To enable the snake animation: create a GitHub Action in your profile repo using <a href="https://github.com/Platane/snk">Platane/snk</a> and push the SVG to the <code>output</code> branch.
+  </blockquote>
+
+</details>
+
+---
+
+<div align="center">
+
+### 💙 If you like my work, give it a ⭐ and share it with friends!
+
+<a href="https://www.buymeacoffee.com/MariamF35" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" width="180px">
+</a>
+
+<br/><br/>
+
+*Made with ❤️ by Mariam*
+
+</div>
+
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+
+
+
+
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=Raymo111.Raymo111&color=00cf00)
