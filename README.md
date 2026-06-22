@@ -1,6 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG - https://github.com/DenverCoder1/readme-typing-svg -->
+[![Typing SVG](https://demolab.com!)](https://git.io/typing-svg)
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Mariam+👋;Full-Stack+Developer;Always+building+something+new;Let's+connect+and+create!&font=Fira+Code&center=true&width=500&height=50&color=f75c7e&vCenter=true&pause=1000&size=22" />
 </a>
