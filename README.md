@@ -24,11 +24,11 @@
 <img align="right" height="250" width="375" alt="Coder GIF" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 - 🔭 &nbsp; I'm a **Full-Stack Developer** who loves building end-to-end products
-- 🚀 &nbsp; Currently exploring **AI, LLMs, and Gen AI integrations**
-- 💬 &nbsp; Ask me about **React, Node.js, Python, AWS** — or anything tech!
+- 🚀 &nbsp; Currently exploring **CN, LLMs, and Gen AI integrations**
+- 💬 &nbsp; Ask me about **React, Node.js, Python, ML** — or anything tech!
 - 🌱 &nbsp; Always learning something new
-- ⚡ &nbsp; Fun fact: I debug with `console.log` *and* I'm proud of it
-- 📫 &nbsp; Reach me at: **[your.email@example.com](mailto:your.email@example.com)**
+- ⚡ &nbsp; Fun fact: I debug without AI tools *and* I'm proud of it
+- 📫 &nbsp; Reach me at: **[mariamfatimaworks@gmail.com](mailto:mariamfatimaworks@gmail.com)**
 
 ---
 
