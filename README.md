@@ -21,7 +21,9 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" height="250" width="375" alt="Coder GIF" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" alt="Floating Workspace" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/af212da4-8588-4d7c-8400-16e56f2746a0" width="300" />
+
+<!-- <img align="right" height="250" width="375" alt="Coder GIF" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" /> -->
 
 - 🔭 &nbsp; I'm a **Full-Stack Developer** who loves building end-to-end products
 - 🚀 &nbsp; Currently exploring **CN, LLMs, and Gen AI integrations**
@@ -144,28 +146,16 @@
 
 ### 💙 If you like my work, give it a ⭐ and share it with friends!
 
-<a href="https://www.buymeacoffee.com/MariamF35" target="_blank">
+<!-- <a href="https://www.buymeacoffee.com/MariamF35" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" width="180px">
-</a>
+</a> -->
 
-<br/><br/>
+<br/>
 
 *Made with ❤️ by Mariam*
 
 </div>
 
----
----
----
----
----
----
----
----
----
----
----
----
 ---
 ---
 ---
@@ -196,47 +186,29 @@
 	</tr>
 </table>
 -->
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜
-- 💼 𝙿𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛, 𝙰𝙸 𝙿𝙴 [<img src="https://github.com/pytorch/pytorch/blob/main/docs/source/_static/img/pytorch-logo-dark.png?raw=true" height="30em" align="center" alt="PyTorch" title="PyTorch"/>](https://github.com/pytorch/pytorch) 𝚊𝚝 [<img src="https://github.com/user-attachments/assets/c47ece6e-0c78-42dc-802b-341bc8c02a14" height="30em" align="center" alt="Meta" title="Meta"/>](https://github.com/facebook)
-- 💜 [𝙾𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎](https://github.com/CharaChorder) 𝚊𝚝 [CharaChorder <img src="https://avatars.githubusercontent.com/u/103693671?s=200&v=4" height="30em" align="center" alt="CharaChorder Logo" title="CharaChorder Logo"/>](https://CharaChorder.com)
-- 🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚏𝚛𝚘𝚖 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 𝚆𝚊𝚝𝚎𝚛𝚕𝚘𝚘, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸𝟺
-- 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋 𝚘𝚛 𝚘𝚗 𝚝𝚑𝚎 [𝙰𝚄𝚁](https://aur.archlinux.org/packages/?SeB=M&K=Raymo111)
-- 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
-
-## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
+<!-- ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```yaml
 - Working on PyTorch compiler!
 - Developing CharaChorder Zero, free cross-platform software-based CharaChorder experience.
 ```
+-->
 <!-- - Developing Nexus, the cross-platform, all-in-one, CharaChorder desktop app! -->
 <!-- - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝚗𝚎𝚠 [**𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛**](https://github.com/Raymo111/i3lock-color) 𝚛𝚎𝚕𝚎𝚊𝚜𝚎
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘... -->
-- 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
-	- 𝙶𝚘 𝚜𝚔𝚢𝚍𝚒𝚟𝚒𝚗𝚐!
+<!-- - 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
+	- 𝙶𝚘 𝚜𝚔𝚢𝚍𝚒𝚟𝚒𝚗𝚐! -->
    <!--
 	- 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚌𝚘𝚍𝚎 𝚝𝚘 𝚝𝚑𝚎 [𝙻𝚒𝚗𝚞𝚡 𝚔𝚎𝚛𝚗𝚎𝚕](https://github.com/torvalds/linux)
 	- 𝙰𝚍𝚍 𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛 𝚝𝚘 𝙳𝚎𝚋𝚒𝚊𝚗, 𝚄𝚋𝚞𝚗𝚝𝚞, 𝚊𝚗𝚍 𝚁𝚎𝚍 𝙷𝚊𝚝/𝙵𝚎𝚍𝚘𝚛𝚊
 	- 𝙸𝚗𝚜𝚝𝚊𝚕𝚕 𝙶𝚎𝚗𝚝𝚘𝚘 (𝚒𝚝 𝚒𝚜 𝚋𝚎𝚢𝚘𝚗𝚍 𝚖𝚢 𝚙𝚘𝚠𝚎𝚛 𝚗𝚘𝚠... 𝙸 𝚖𝚞𝚜𝚝 𝚝𝚛𝚊𝚒𝚗 𝚑𝚊𝚛𝚍...)
   -->
-- 🤔 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚒𝚜𝚜𝚞𝚎𝚜 𝙸 𝚗𝚎𝚎𝚍 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑:
-	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟹𝟼](https://github.com/Raymo111/i3lock-color/issues/136)
-	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟻𝟿](https://github.com/Raymo111/i3lock-color/issues/159)
-
-## 📜 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚖𝚢 𝙶𝚒𝚜𝚝𝚜
-
-### 𝙻𝚒𝚗𝚞𝚡 𝚃𝚞𝚝𝚘𝚛𝚒𝚊𝚕𝚜
-- [𝙰𝚛𝚌𝚑 𝙻𝚒𝚗𝚞𝚡 𝙸𝚗𝚜𝚝𝚊𝚕𝚕 𝚠𝚒𝚝𝚑 𝙱𝚃𝚁𝙵𝚂, 𝙻𝚄𝙺𝚂, 𝚊𝚗𝚍 𝚜𝚢𝚜𝚝𝚎𝚖𝚍-𝚋𝚘𝚘𝚝, 𝚍𝚞𝚊𝚕-𝚋𝚘𝚘𝚝𝚎𝚍 𝚠𝚒𝚝𝚑 𝚊 𝚄𝙺𝙸 𝚊𝚗𝚍 𝚆𝚒𝚗𝚍𝚘𝚠𝚜 𝟷𝟷 𝚘𝚗 𝚊 𝚜𝚑𝚊𝚛𝚎𝚍 𝙴𝙵𝙸 𝚙𝚊𝚛𝚝𝚒𝚝𝚒𝚘𝚗](https://gist.github.com/Raymo111/5771e425d6e0b9b095660696b92e1a3e)
-
-### 𝙻𝚒𝚗𝚞𝚡 𝚂𝚌𝚛𝚒𝚙𝚝𝚜
-- [~~𝙲𝚛𝚊𝚠𝚕 𝙳𝚒𝚕𝚋𝚎𝚛𝚝𝚜 𝚏𝚛𝚘𝚖 𝚊 𝚜𝚙𝚎𝚌𝚒𝚏𝚒𝚎𝚍 𝚍𝚊𝚝𝚎 𝚛𝚊𝚗𝚐𝚎~~ 𝚁𝙸𝙿 𝙳𝚒𝚕𝚋𝚎𝚛𝚝𝚜](https://gist.github.com/Raymo111/40d97b86a4e70edb777ae85fe925899a)
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 ![Metrics](https://metrics.lecoq.io/MariamF35?template=classic&base.indepth=true&repositories.forks=true&languages=1&stargazers=1&stars=1&people=1&notable=1&traffic=1&gists=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=true&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stargazers=false&stargazers.days=14&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=0&stars=false&stars.limit=4&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&traffic=false&gists=false&config.timezone=America%2FLos_Angeles)
 
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
-<!--START_SECTION:activity
+<!-- ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
+START_SECTION:activity
 1. 💪 Opened PR [#1389](https://github.com/pytorch/kineto/pull/1389) in [pytorch/kineto](https://github.com/pytorch/kineto)
 2. 🗣 Commented on [#3926](https://github.com/lwouis/alt-tab-macos/pull/3926#issuecomment-4362574751) in [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos)
 3. 🔒 Closed issue [#44](https://github.com/Raymo111/kahoot-answer-bot/issues/44) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
@@ -245,9 +217,7 @@
 <!--END_SECTION:activity-->
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
-
-[<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="40em" align="center" alt="Follow Mariam Fatima on LinkedIn" title="Follow Mariam Fatima on LinkedIn"/>](https://linkedin.com/in/mariam-f-a85266319)
+𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 through my mail: **[mariamfworks@gmail.com](mailto:mariamfworks@gmail.com)** or on my socials: [<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="40em" align="center" alt="Follow Mariam Fatima on LinkedIn" title="Follow Mariam Fatima on LinkedIn"/>](https://linkedin.com/in/mariam-f-a85266319)
 
 ## ⚡ 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚌𝚘𝚘𝚕 𝚝𝚑𝚒𝚗𝚐𝚜 𝚝𝚑𝚊𝚝 𝚠𝚎𝚗𝚝 𝚒𝚗𝚝𝚘 𝚝𝚑𝚒𝚜 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚁𝙴𝙰𝙳𝙼𝙴
 - 𝚃𝚢𝚙𝚎𝙸𝚝, 𝚅𝚞𝚎 𝙿𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝙹𝚜 𝚊𝚗𝚍 𝚅𝚞𝚎.𝚓𝚜 𝚏𝚘𝚛 𝚝𝚑𝚎 𝚝𝚢𝚙𝚒𝚗𝚐 𝚒𝚗𝚝𝚛𝚘: [𝚑𝚝𝚝𝚙𝚜://𝚌𝚘𝚍𝚎𝚜𝚊𝚗𝚍𝚋𝚘𝚡.𝚒𝚘/𝚜/𝚛𝚎𝚊𝚍𝚖𝚎-𝚒𝚗𝚝𝚛𝚘𝚐𝚒𝚏-𝟿𝚏𝚓𝚘𝟻](https://codesandbox.io/s/readme-introgif-9fjo5) <!-- Thanks to @matyo91's helpful comments in their profile README! -->
@@ -263,7 +233,16 @@
 
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
+----
+----
+----
+----
+----
+----
+----
+----
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 iampavangandhi (profile views option, drop down idea, )
 
@@ -274,14 +253,9 @@ iampavangandhi (profile views option, drop down idea, )
 </p>
 <hr> -->
 
-
-### Talking about Personal Stuff:
-
 - 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
 - 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
 - 💬 &nbsp; Ask me anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
-- 📫 &nbsp; Reach me out: pavangandhi100@gmail.com.
 
 ### My Absolute Favorites:
 
