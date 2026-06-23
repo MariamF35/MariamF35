@@ -6,6 +6,8 @@
 <!-- Social Badges -->
   <a href="https://dev.to/MariamFatima"><img width="32px" alt="Dev.to" title="MariamFatima Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <br />
+  <a href="https://dev.to/MariamFatima"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
 <!--  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a> -->
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/MariamF35)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=Github&logoColor=white)](https://github.com/MariamF35)
@@ -184,13 +186,12 @@
 ---
 
 <p align='center'>
-<a href="https://dev.to/MariamFatima"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
  <!-- <a href="https://www.coffee.com/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp; -->
  </p>
 
 <p align="center">
    <br> <!-- <a href="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> <img alt="hemant joshi github" src="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> </a> -->
-   <a href="https://visitor-badge.glitch.me/badge?page_id=mayhemantt.mayhemantt"> <img alt="hemant joshi github" src="https://visitor-badge.glitch.me/badge?page_id=mayhemantt.mayhemantt"> </a>
+   <a href="https://visitor-badge.glitch.me/badge?page_id=MariamF35.MariamF35"> <img alt="hemant joshi github" src="https://visitor-badge.glitch.me/badge?page_id=MariamF35.MariamF35"> </a>
  </p>
 <br />
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges 
