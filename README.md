@@ -1,18 +1,15 @@
 <div align="center">
 
-<!-- Typing SVG - https://github.com/DenverCoder1/readme-typing-svg -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tangerine&size=25&pause=1000&color=F7F7F7&background=F75C7E&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Mariam+%F0%9F%91%8B%F0%9F%8F%BB;Full+Stack+Developer;Always+building+something+new)](https://git.io/typing-svg)
 <br/>
 
 <!-- Social Badges -->
-<!--[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/MariamF35) -->
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/MariamF35)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=Github&logoColor=white)](https://github.com/MariamF35)
-<!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/MariamF35) -->
 
 <!-- Visitor Counter -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=MariamF35&label=Profile%20views&color=f75c7e&style=flat" alt="MariamF35" />
+  <img src="https://komarev.com/ghpvc/?username=MariamF35&label=Profile%20views&color=f75c7e&style=style-for-the-badge" alt="MariamF35" />
 </p>
 
 </div>
@@ -22,8 +19,6 @@
 ## 👩‍💻 About Me
 
 <img align="right" height="250" alt="Floating Workspace" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/af212da4-8588-4d7c-8400-16e56f2746a0" width="300" />
-
-<!-- <img align="right" height="250" width="375" alt="Coder GIF" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" /> -->
 
 - 🔭 &nbsp; I'm a **Full-Stack Developer** who loves building end-to-end products
 - 🚀 &nbsp; Currently exploring **CN, LLMs, and Gen AI integrations**
@@ -38,36 +33,30 @@
 
 ### Languages
 <p>
-  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript">
-  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript">
   <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python">
   <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML">
   <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS">
-  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL">
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript">
 </p>
 
 ### Frontend
 <p>
   <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React">
-  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" alt="Next.js">
-  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="Tailwind CSS">
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/threejs/threejs.png" alt="Three.js">
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png" alt="Vite">
 </p>
 
 ### Backend & Databases
 <p>
   <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js">
-  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express.js">
-  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" alt="Django">
-  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png" alt="Flask">
-  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB">
-  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL">
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL">
 </p>
 
-### Cloud & DevOps
+### Tools
 <p>
-  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="AWS">
-  <img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker">
   <img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git">
+  <img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub">
+  <img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code">
 </p>
 
 ---
@@ -111,22 +100,6 @@
 ---
 
 <details>
-  <summary><h2>🛠️ Things I Use to Get Stuff Done</h2></summary>
-
-  <ul>
-    <li><b>OS:</b> macOS / Ubuntu</li>
-    <li><b>Editor:</b> VS Code — the best editor out there ❤️</li>
-    <li><b>Terminal:</b> Zsh with Oh My Zsh</li>
-    <li><b>Browser:</b> Chrome (+ a million tabs)</li>
-    <li><b>Other Tools:</b> Postman, Notion, Figma, Docker Desktop</li>
-    <li><b>Stay Updated:</b> Twitter, Hacker News, Dev.to</li>
-  </ul>
-
-</details>
-
----
-
-<details>
   <summary><h2>🎮 Fun Corner — Play a Snake Game!</h2></summary>
 
   <!-- GitHub snake animation - generate yours at https://github.com/Platane/snk -->
@@ -158,63 +131,9 @@
 
 ---
 ---
----
----
----
----
----
-<!--
-<table>
-	<tr>
-	</tr>
-	<tr>
-		<th>
-			<h2><code>𝚂𝚙𝚎𝚌𝚒𝚊𝚕</code>: 𝙸'𝚖 𝚙𝚊𝚛𝚝𝚒𝚌𝚒𝚙𝚊𝚝𝚒𝚗𝚐 𝚒𝚗 𝙷𝚊𝚌𝚔𝚝𝚘𝚋𝚎𝚛𝚏𝚎𝚜𝚝!</h2>
-			𝙰𝚗𝚢𝚘𝚗𝚎 𝚠𝚑𝚘 𝚠𝚊𝚗𝚝𝚜 𝚝𝚘 𝚒𝚜 𝚠𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚙𝚊𝚛𝚝𝚒𝚌𝚒𝚙𝚊𝚝𝚎! 𝙹𝚞𝚜𝚝 𝚜𝚒𝚐𝚗 𝚞𝚙 𝚊𝚝 <a href="https://hacktoberfest.digitalocean.com/">𝚑𝚝𝚝𝚙𝚜://𝚑𝚊𝚌𝚔𝚝𝚘𝚋𝚎𝚛𝚏𝚎𝚜𝚝.𝚍𝚒𝚐𝚒𝚝𝚊𝚕𝚘𝚌𝚎𝚊𝚗.𝚌𝚘𝚖/</a>.
-				<br>𝙱𝚊𝚜𝚒𝚌𝚊𝚕𝚕𝚢, 𝚖𝚊𝚔𝚎 𝟺 𝙿𝚁𝚜 𝚝𝚘 𝙶𝚒𝚝𝙷𝚞𝚋 𝚛𝚎𝚙𝚘𝚜 𝚊𝚗𝚍 𝚐𝚎𝚝 𝚝𝚑𝚎𝚖 𝚖𝚎𝚛𝚐𝚎𝚍 𝚘𝚛 𝚝𝚊𝚐𝚐𝚎𝚍 <code>hacktoberfest-accepted</code> 𝚠𝚒𝚕𝚕 𝚐𝚎𝚝 𝚌𝚘𝚘𝚕&nbsp𝚜𝚠𝚊𝚐!
-		</th>
-	</tr>
-	<tr>
-		<td>
-				<b>𝙻𝚒𝚜𝚝 𝚘𝚏 𝚖𝚢 𝚛𝚎𝚙𝚘𝚜 𝚙𝚊𝚛𝚝𝚒𝚌𝚒𝚙𝚊𝚝𝚒𝚗𝚐 𝚒𝚗 𝚝𝚑𝚒𝚜 𝚊𝚠𝚎𝚜𝚘𝚖𝚎 𝚎𝚟𝚎𝚗𝚝:<b>
-				<ul>
-					<li><a href="https://github.com/Raymo111/emoji">𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚎𝚖𝚘𝚓𝚒</a></li>
-					<li><a href="https://github.com/Raymo111/drracket-customization">𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚍𝚛𝚛𝚊𝚌𝚔𝚎𝚝-𝚌𝚞𝚜𝚝𝚘𝚖𝚒𝚣𝚊𝚝𝚒𝚘𝚗</a></li>
-					<li><a href="https://github.com/Raymo111/i3lock-color">𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛</a></li>
-				</ul>
-		</td>
-	</tr>
-</table>
--->
-<!-- ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
-```yaml
-- Working on PyTorch compiler!
-- Developing CharaChorder Zero, free cross-platform software-based CharaChorder experience.
-```
--->
-<!-- - Developing Nexus, the cross-platform, all-in-one, CharaChorder desktop app! -->
-<!-- - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝚗𝚎𝚠 [**𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛**](https://github.com/Raymo111/i3lock-color) 𝚛𝚎𝚕𝚎𝚊𝚜𝚎
-- 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘... -->
-<!-- - 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
-	- 𝙶𝚘 𝚜𝚔𝚢𝚍𝚒𝚟𝚒𝚗𝚐! -->
-   <!--
-	- 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚌𝚘𝚍𝚎 𝚝𝚘 𝚝𝚑𝚎 [𝙻𝚒𝚗𝚞𝚡 𝚔𝚎𝚛𝚗𝚎𝚕](https://github.com/torvalds/linux)
-	- 𝙰𝚍𝚍 𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛 𝚝𝚘 𝙳𝚎𝚋𝚒𝚊𝚗, 𝚄𝚋𝚞𝚗𝚝𝚞, 𝚊𝚗𝚍 𝚁𝚎𝚍 𝙷𝚊𝚝/𝙵𝚎𝚍𝚘𝚛𝚊
-	- 𝙸𝚗𝚜𝚝𝚊𝚕𝚕 𝙶𝚎𝚗𝚝𝚘𝚘 (𝚒𝚝 𝚒𝚜 𝚋𝚎𝚢𝚘𝚗𝚍 𝚖𝚢 𝚙𝚘𝚠𝚎𝚛 𝚗𝚘𝚠... 𝙸 𝚖𝚞𝚜𝚝 𝚝𝚛𝚊𝚒𝚗 𝚑𝚊𝚛𝚍...)
-  -->
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 ![Metrics](https://metrics.lecoq.io/MariamF35?template=classic&base.indepth=true&repositories.forks=true&languages=1&stargazers=1&stars=1&people=1&notable=1&traffic=1&gists=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=true&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stargazers=false&stargazers.days=14&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=0&stars=false&stars.limit=4&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&traffic=false&gists=false&config.timezone=America%2FLos_Angeles)
-
-<!-- ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
-START_SECTION:activity
-1. 💪 Opened PR [#1389](https://github.com/pytorch/kineto/pull/1389) in [pytorch/kineto](https://github.com/pytorch/kineto)
-2. 🗣 Commented on [#3926](https://github.com/lwouis/alt-tab-macos/pull/3926#issuecomment-4362574751) in [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos)
-3. 🔒 Closed issue [#44](https://github.com/Raymo111/kahoot-answer-bot/issues/44) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-4. ❗ Opened issue [#847](https://github.com/LukeZGD/Legacy-iOS-Kit/issues/847) in [LukeZGD/Legacy-iOS-Kit](https://github.com/LukeZGD/Legacy-iOS-Kit)
-5. ❌ Closed PR [#198](https://github.com/Aorimn/dislocker/pull/198) in [Aorimn/dislocker](https://github.com/Aorimn/dislocker)
-<!--END_SECTION:activity-->
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 through my mail: **[mariamfworks@gmail.com](mailto:mariamfworks@gmail.com)** or on my socials: [<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="40em" align="center" alt="Follow Mariam Fatima on LinkedIn" title="Follow Mariam Fatima on LinkedIn"/>](https://linkedin.com/in/mariam-f-a85266319)
@@ -225,41 +144,15 @@ START_SECTION:activity
 - 𝙼𝚘𝚗𝚘𝚜𝚙𝚊𝚌𝚎𝚍 𝚝𝚎𝚡𝚝 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚢𝚊𝚢𝚝𝚎𝚡𝚝.𝚌𝚘𝚖/𝚖𝚘𝚗𝚘𝚜𝚙𝚊𝚌𝚎/](https://yaytext.com/monospace/)
 - 𝙶𝚒𝚝𝙷𝚞𝚋 𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚢 𝚊𝚌𝚝𝚒𝚘𝚗 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚓𝚊𝚖𝚎𝚜𝚐𝚎𝚘𝚛𝚐𝚎00𝟽/𝚐𝚒𝚝𝚑𝚞𝚋-𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚢-𝚛𝚎𝚊𝚍𝚖𝚎](https://github.com/jamesgeorge007/github-activity-readme)
 - 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚕𝚘𝚠𝚕𝚒𝚐𝚑𝚝𝚎𝚛/𝚖𝚎𝚝𝚛𝚒𝚌𝚜](https://github.com/lowlighter/metrics)
-<!--
-- 𝙻𝚊𝚝𝚎𝚜𝚝 𝚝𝚠𝚎𝚎𝚝 𝚊𝚌𝚝𝚒𝚘𝚗 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚣𝚑𝚒𝚒𝚒𝚢𝚊𝚗𝚐/𝚣𝚑𝚒𝚒𝚒𝚢𝚊𝚗𝚐](https://github.com/zhiiiyang/zhiiiyang)
-- 𝙻𝚊𝚝𝚎𝚜𝚝 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖 𝚙𝚘𝚜𝚝𝚜 𝚊𝚗𝚍 𝚠𝚎𝚊𝚝𝚑𝚎𝚛 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚝𝚑𝚖𝚜𝚐𝚋𝚛𝚝/𝚝𝚑𝚖𝚜𝚐𝚋𝚛𝚝](https://github.com/thmsgbrt/thmsgbrt)
-- 𝙰𝚕𝚕-𝚝𝚒𝚖𝚎 𝙶𝚒𝚝𝙷𝚞𝚋 𝚜𝚝𝚊𝚝𝚜 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚖𝚊𝚛𝚔𝚎𝚝𝚙𝚕𝚊𝚌𝚎/𝚊𝚌𝚝𝚒𝚘𝚗𝚜/𝚙𝚛𝚘𝚏𝚒𝚕𝚎-𝚛𝚎𝚊𝚍𝚖𝚎-𝚜𝚝𝚊𝚝𝚜](https://github.com/marketplace/actions/profile-readme-stats)
--->
-
-
-
---------------------------------------------------
-----
-----
-----
-----
-----
-----
-----
-----
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-iampavangandhi (profile views option, drop down idea, )
-
-<!-- <hr>
-<h3 align="left">✨ Random Dev Quote::</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</p>
-<hr> -->
+---
+---
 
 - 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
 - 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
-- 💬 &nbsp; Ask me anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
 
-### My Absolute Favorites:
+### I enjoy:
 
-- 💻 &nbsp; I love exploring new technologies and building cool stuff.
+- 💻 &nbsp; Exploring new technologies and building cool stuff.
 - 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
 - 🍕 &nbsp; Meetups & Tech Events & Hackathons.
 
