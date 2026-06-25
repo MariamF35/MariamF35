@@ -4,9 +4,9 @@
 <br/>
 
 <!-- Social Badges -->
-<!--  <a href="https://dev.to/MariamFatima"><img width="32px" alt="Dev.to" title="MariamFatima Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+<a href="https://dev.to/MariamFatima"><img width="32px" alt="Dev.to" title="MariamFatima Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <br />-->
+  <br />
   <a href="https://linkedin.com/in/mariam-f-a85266319">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -16,7 +16,7 @@
 </a>
 
 <a href="https://dev.to/mariamfatima">
-<img href="https://img.shields.io/badge/Dev-000000?style=for-the-badge&logo=dev&logoColor=white"/>
+<img href="https://img.shields.io/badge/Dev-181717?style=for-the-badge&logo=dev&logoColor=white"/>
 </a>
 
 <a href="https://mariamf35.github.io">
@@ -35,16 +35,14 @@
 <!--  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a> -->
 
 <!-- Visitor Counter -->
-<p>
+<!-- <p>
   <a href="https://github.com/MariamF35?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MariamF35?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/MariamF35?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MariamF35?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/MariamF35/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/MariamF35-profile-views"/></a>
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=MariamF35&label=Profile%20views&color=f75c7e&style=style-for-the-badge" alt="MariamF35" />
-</p>
+</p>-->
 
 </div>
 
@@ -205,17 +203,12 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mariamF35&hide_border=true" />
 </details>
 
----
 
-<p align='center'>
  <!-- <a href="https://www.coffee.com/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp; -->
- </p>
 
-<p align="center">
-   <br> <!-- <a href="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> <img alt="hemant joshi github" src="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> </a> -->
-   <a href="https://visitor-badge.glitch.me/badge?page_id=MariamF35.MariamF35"> <img alt="hemant joshi github" src="https://visitor-badge.glitch.me/badge?page_id=MariamF35.MariamF35"> </a>
- </p>
-<br />
+
+<!-- <a href="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> <img alt="hemant joshi github" src="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> </a> -->
+
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges 
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px"> 
 -->
