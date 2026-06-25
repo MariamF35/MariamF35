@@ -42,6 +42,10 @@
 - 💬 &nbsp; Ask me about **React, Node.js, Python, ML** — or anything tech!
 - 🌱 &nbsp; Always learning something new
 - ⚡ &nbsp; Fun fact: I debug without AI tools *and* I'm proud of it
+- ### I enjoy:
+- 💻 &nbsp; Exploring new technologies and building cool stuff.
+- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
+- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
 - 📫 &nbsp; Reach me at: **[mariamfatimaworks@gmail.com](mailto:mariamfatimaworks@gmail.com)**
 
 ---
@@ -153,8 +157,8 @@
 </div>
 ---
 
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-![Metrics](https://metrics.lecoq.io/MariamF35?template=classic&base.indepth=true&repositories.forks=true&languages=1&stargazers=1&stars=1&people=1&notable=1&traffic=1&gists=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=true&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stargazers=false&stargazers.days=14&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=0&stars=false&stars.limit=4&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&traffic=false&gists=false&config.timezone=America%2FLos_Angeles)
+<!-- ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+![Metrics](https://metrics.lecoq.io/MariamF35?template=classic&base.indepth=true&repositories.forks=true&languages=1&stargazers=1&stars=1&people=1&notable=1&traffic=1&gists=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=true&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stargazers=false&stargazers.days=14&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=0&stars=false&stars.limit=4&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&traffic=false&gists=false&config.timezone=America%2FLos_Angeles) -->
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 through my mail: **[mariamfworks@gmail.com](mailto:mariamfworks@gmail.com)** or on my socials: [<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="40em" align="center" alt="Follow Mariam Fatima on LinkedIn" title="Follow Mariam Fatima on LinkedIn"/>](https://linkedin.com/in/mariam-f-a85266319)
@@ -166,15 +170,6 @@
 - 𝙶𝚒𝚝𝙷𝚞𝚋 𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚢 𝚊𝚌𝚝𝚒𝚘𝚗 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚓𝚊𝚖𝚎𝚜𝚐𝚎𝚘𝚛𝚐𝚎00𝟽/𝚐𝚒𝚝𝚑𝚞𝚋-𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚢-𝚛𝚎𝚊𝚍𝚖𝚎](https://github.com/jamesgeorge007/github-activity-readme)
 - 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚕𝚘𝚠𝚕𝚒𝚐𝚑𝚝𝚎𝚛/𝚖𝚎𝚝𝚛𝚒𝚌𝚜](https://github.com/lowlighter/metrics)
 ---
-
-- 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
-- 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
-
-### I enjoy:
-
-- 💻 &nbsp; Exploring new technologies and building cool stuff.
-- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
-- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
 
  <!-- <a href="https://www.coffee.com/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp; -->
 
