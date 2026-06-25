@@ -4,9 +4,30 @@
 <br/>
 
 <!-- Social Badges -->
-  <a href="https://dev.to/MariamFatima"><img width="32px" alt="Dev.to" title="MariamFatima Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+<!--  <a href="https://dev.to/MariamFatima"><img width="32px" alt="Dev.to" title="MariamFatima Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <br />
+  <br />-->
+  <a href="https://linkedin.com/in/mariam-f-a85266319">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/MariamF35">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://mariamfworks.github.io">
+<img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=MariamF35&label=Profile%20Views&color=f75c7e&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/MariamF35?label=Followers&style=for-the-badge&color=236ad3"/>
+
+<img src="https://img.shields.io/github/stars/MariamF35?affiliations=OWNER&style=for-the-badge&color=F8D866"/>
+
+<br />
   <a href="https://dev.to/MariamFatima"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
 <!--  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a> -->
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/MariamF35)
