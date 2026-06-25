@@ -16,10 +16,6 @@
 <img src="https://img.shields.io/badge/Dev-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://dev.to/mariamfatima">
-<img href="https://img.shields.io/badge/Dev-181717?style=for-the-badge&logo=dev&logoColor=white"/>
-</a>
-
 <a href="https://mariamf35.github.io">
 <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
@@ -35,18 +31,7 @@
 <br />
 <!--  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a> -->
 
-<!-- Visitor Counter -->
-<!-- <p>
-  <a href="https://github.com/MariamF35?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MariamF35?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/MariamF35?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MariamF35?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/MariamF35/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/MariamF35-profile-views"/></a>
-</p>-->
-
 </div>
-
 
 ## 👩‍💻 About Me
 
@@ -128,6 +113,9 @@
       <a href="#"><img alt="Photopea" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white"></a>
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"></a>
+    <!-- -->
+    <a href="#"><img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"></a>
   </p>
 
 <!-- -->
