@@ -4,11 +4,12 @@
 <br/>
 
 <!-- Social Badges -->
-<a href="https://dev.to/MariamFatima"><img width="32px" alt="Dev.to" title="MariamFatima Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <br />
   <a href="https://linkedin.com/in/mariam-f-a85266319">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/MariamF35">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://github.com/MariamF35">
