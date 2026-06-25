@@ -13,7 +13,7 @@
 </a>
 
 <a href="https://dev.to/MariamFatima">
-<img src="https://img.shields.io/badge/Devub-181717?style=for-the-badge&logo=gitdev&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dev-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://dev.to/mariamfatima">
