@@ -22,6 +22,7 @@
 
 <br>
 
+<img src="https://komarev.com/ghpvc/?username=MariamF35&label=Profile%20views&color=0e75b6&style=flat" alt="MariamF35" />
 <img src="https://komarev.com/ghpvc/?username=MariamF35&label=Profile%20Views&color=f75c7e&style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/followers/MariamF35?label=Followers&style=for-the-badge&color=236ad3"/>
