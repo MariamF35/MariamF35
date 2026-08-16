@@ -50,7 +50,7 @@
 - 💻 &nbsp; Exploring new technologies and building cool stuff.
 - 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
 - 🍕 &nbsp; Meetups & Tech Events & Hackathons.
-- 📫 &nbsp; Reach me at: **[mariamfatimaworks@gmail.com](mailto:mariamfatimaworks@gmail.com)** or [<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="40em" align="center" alt="Follow Mariam Fatima on LinkedIn" title="Follow Mariam Fatima on LinkedIn"/>](https://linkedin.com/in/mariam-f-a85266319)
+- 📫 &nbsp; Reach me at: **[mariamfworks@gmail.com](mailto:mariamfworks@gmail.com)** or [<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="40em" align="center" alt="Follow Mariam Fatima on LinkedIn" title="Follow Mariam Fatima on LinkedIn"/>](https://linkedin.com/in/mariamf136)
 
 
 ---
