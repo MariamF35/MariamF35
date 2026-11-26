@@ -4,7 +4,7 @@
 <br/>
 
 <!-- Social Badges -->
-  <a href="https://linkedin.com/in/mariam-f-a85266319">
+  <a href="https://linkedin.com/in/mariamf136">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
